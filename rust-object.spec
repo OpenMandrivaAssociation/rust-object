@@ -5,8 +5,8 @@
 %global crate object
 
 Name:           rust-%{crate}
-Version:        0.25.3
-Release:        2
+Version:        0.39.1
+Release:        1
 Summary:        Unified interface for parsing object file formats
 
 # Upstream license specification: Apache-2.0/MIT
